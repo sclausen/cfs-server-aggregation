@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Expose mongodb aggregation (mapReduce, aggregate and distinct), to a FS.Collection SERVER side only.",
-    version: '1.0.0',
+    version: '1.0.1',
     name: 'phosphoros:cfs-server-aggregation',
     git: 'https://github.com/sclausen/cfs-server-aggregation.git'
 });
